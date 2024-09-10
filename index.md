@@ -111,8 +111,6 @@ end
 <dd>1986</dd>
 <dt>Birthplace</dt>
 <dd>New york</dd>
-<dt>N/A</dt>
-<dd>Green</dd>
 </dl>
 
 ```
