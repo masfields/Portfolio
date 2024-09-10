@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![security]thumb16.jpg
+![Branching]istockphoto-1331943958-612x612.jpg
 
 
 ### Definition lists can be used with HTML syntax.
